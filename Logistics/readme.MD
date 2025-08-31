@@ -448,3 +448,23 @@ These are **untrained models**, so the loss values are high (as expected).
 
 * 🔄 Add training loops for all 3 and show how loss decreases?
 
+Here’s your result after 50 training epochs:
+
+---
+
+### 📉 Loss Curves
+
+* **Left Plot:** Regression using **MSELoss** → smooth downward slope ✅
+* **Middle Plot:** Binary classification using **BCELoss** → steadily decreasing ✅
+* **Right Plot:** Multi-class classification using **CrossEntropyLoss** → consistent learning ✅
+
+Each model is **learning properly**, and the loss values **drop as expected** — meaning the training loop is working and the chosen loss functions fit the task.
+
+---
+
+Want to:
+
+* Visualize predictions vs. targets?
+* Test final accuracy for the classifiers?
+* Zip this into a clean example project with file structure?
+ 
