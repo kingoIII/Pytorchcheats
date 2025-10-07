@@ -1,4 +1,3 @@
-Got it. Here’s a tight, tactical notes pack you can reuse.
 
 # Classification Model — Build Notes (end-to-end)
 
@@ -237,6 +236,3 @@ def eval_metrics(model, loader, device):
 * [ ] Monitor post-deploy
 
 ---
-
-Pick your lane: **tabular (sklearn)** or **images (PyTorch)** first.
-One question for you: do you want me to tailor these notes to **tabular only**, **vision only**, or keep both?
