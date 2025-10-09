@@ -1,4 +1,5 @@
 
+<img width="1746" height="1101" alt="output" src="https://github.com/user-attachments/assets/0ef06e97-7c2c-4a1a-9511-b69d2628b9c2" />
 What it covers (tight and practical):
 
 * dtype vs. type(), shape/ndim, and safe casting with `.to(...)`
